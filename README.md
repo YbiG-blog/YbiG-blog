@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **MERN and DSA with C++**
 
-- 📫 How to reach me **My LinkedIn profile : https://www.linkedin.com/in/yash-vardhan-yv**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-vardhan-yv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-vardhan-yv" height="30" width="40" /></a>
