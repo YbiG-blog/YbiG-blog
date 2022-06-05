@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 - 🔭 I’m currently working on **Exam Portal**
 
