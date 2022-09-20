@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🔭 I’m currently working on **Project related with Smart India Hackathon**
+- 🔭 I’m currently working on **Project related with SIH`22**
 
 - 🌱 I’m currently learning **MERN stack integrations**
 
