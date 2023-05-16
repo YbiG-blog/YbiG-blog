@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/yash-vardhan-yv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-vardhan-yv" height="30" width="40" /></a>
 <a href="https://instagram.com/yashvardhan.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashvardhan.31" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashvardhan7906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashvardhan7906" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ybig_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ybig_31" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ybig_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ybig_31" height="30" width="40" style="background-color: white; /></a>
 <a href="https://codeforces.com/profile/ybig_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ybig_31" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashv_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashv_31" height="30" width="40" /></a>
 </p>
