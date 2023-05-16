@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🔭 I’m currently working on **Stock Management System**
+💬 Ask me about **Ask me about Node.js , Express.js , MongoDB , Postman, C/C++, CP and DSA.**
 
-<!-- - 🌱 I’m currently learning **MERN stack integrations** -->
-
-- 👯 I’m looking to collaborate on **MERN and DSA with C++**
+ 📫 How to reach me **https://www.linkedin.com/in/yash-vardhan-yv/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
