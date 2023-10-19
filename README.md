@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-💬 Ask me about **Ask me about Node.js , Express.js , MongoDB , Postman, C/C++, CP and DSA.**
+💬 Ask me about **Ask me about Node.js , Express.js , React.js, MongoDB , Postman, C/C++, CP and DSA.**
 
  📫 How to reach me **https://www.linkedin.com/in/yash-vardhan-yv/**
 
