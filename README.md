@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-💬 Ask me about **Ask me about C++, JavaScript, TypeScript, Node.js , Express.js , React.js, Django, MySQL, MongoDB , Git, GCP, Redis, RabbitMq, CP and DSA.**
+💬 Ask me about **Ask me about C++, GoLang, JavaScript, TypeScript, Node.js , Express.js , React.js, MySQL, MongoDB , Git, GCP, Redis, RabbitMq, CP and DSA.**
 
  📫 How to reach me **https://www.linkedin.com/in/yash-vardhan-yv/**
 
